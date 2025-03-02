@@ -1,4 +1,5 @@
-.fonters {
+.font-one,
+.font-two {
     font-size: 28px;
     font-family: 'Halvetica','Times New Roman','sans-serif';
 }
